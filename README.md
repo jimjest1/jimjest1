@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jimjest1
-- Trying to learn ansible. 
+- 👋 Hi, I’m @jimjest1,
+- Trying to learn everything.
 
 <!---
 jimjest1/jimjest1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
